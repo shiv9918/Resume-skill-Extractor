@@ -1,0 +1,7 @@
+John Doe
+Software Engineer
+Experience:
+- Developed REST APIs using Python and Django.
+- Managed databases with PostgreSQL and MySQL.
+- Deployed applications using Docker and AWS EC2.
+- Familiar with frontend basics: HTML, CSS, JavaScript.

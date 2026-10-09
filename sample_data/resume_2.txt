@@ -1,0 +1,5 @@
+Jane Smith
+Data Scientist
+Summary: Experienced in machine learning and data analysis.
+Skills: Python, SQL, pandas, scikit-learn, TensorFlow, Git.
+Education: MS in Computer Science.

@@ -1,0 +1,4 @@
+{
+    "resume_1.txt": ["Python", "Django", "PostgreSQL", "MySQL", "Docker", "AWS", "HTML", "CSS", "JavaScript"],
+    "resume_2.txt": ["Python", "SQL", "pandas", "scikit-learn", "TensorFlow", "Git"]
+}
