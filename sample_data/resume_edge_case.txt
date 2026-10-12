@@ -1,0 +1,9 @@
+Alex Mercer
+Creative Graphic Designer & Content Specialist
+
+Experience:
+- Designed graphics with Adobe Photoshop, Illustrator, and Figma.
+- Wrote copywriting for marketing brochures and digital campaigns.
+- Assisted engineering team with communication; note: did NOT use Java or C++, but used JavaScript for basic website tweaks.
+- Zero experience with backend servers or database architecture.
+- Random noise text: 12345 @#$%^&! null undefined NaN.
