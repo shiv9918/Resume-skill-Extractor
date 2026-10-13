@@ -5,3 +5,7 @@ __pycache__/
 .pytest_cache/
 venv/
 .env
+
+# Local submission notes (kept local, excluded from GitHub)
+DEMO_SCRIPT.md
+DESIGN_NOTE.md

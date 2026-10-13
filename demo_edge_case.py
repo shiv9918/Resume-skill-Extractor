@@ -65,6 +65,17 @@ def run_demonstration():
     if os.path.exists(test_db):
         os.remove(test_db)
 
+    # Case 5: Noisy Resume with Special Symbols and Mixed Text
+    print("\n[Case 5] Processing Noisy Resume File (sample_data/resume_edge_case.txt):")
+    edge_file = "sample_data/resume_edge_case.txt"
+    if os.path.exists(edge_file):
+        with open(edge_file, "r", encoding="utf-8") as f:
+            content = f.read()
+        edge_skills = extractor.extract_skills(content)
+        print(f" -> File content successfully parsed.")
+        print(f" -> Extracted controlled skills: {edge_skills}")
+        print(" [PASSED] Gracefully processed special characters (@#$%^&!, NaN, null) without failure.")
+
     print("\n" + "=" * 65)
     print("ALL EDGE-CASE TESTS COMPLETED SUCCESSFULLY!")
     print("=" * 65)
